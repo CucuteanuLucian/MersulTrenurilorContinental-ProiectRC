@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<listaTrenurilor>
+    <tren id="IR1883">
+        <plecare>Iasi</plecare>
+        <destinatie>Suceava</destinatie>
+        <oraPlecarii>8:22</oraPlecarii>
+        <oraSosirii>11:10</oraSosirii>
+        <durata>2h 48m</durata>
+        <intarziereSosirePlecare>0</intarziereSosirePlecare>
+        <intarzierePlecare>0</intarzierePlecare>
+        <intarziereSosireDestinatie>0</intarziereSosireDestinatie>
+    </tren>
+    <tren id="IR1111">
+        <plecare>Bucuresti</plecare>
+        <destinatie>Cluj-Napoca</destinatie>
+        <oraPlecarii>7:00</oraPlecarii>
+        <oraSosirii>13:40</oraSosirii>
+        <durata>6h 30m</durata>
+        <intarziereSosirePlecare>0</intarziereSosirePlecare>
+        <intarzierePlecare>0</intarzierePlecare>
+        <intarziereSosireDestinatie>0</intarziereSosireDestinatie>   
+    </tren>
+        <tren id="IR2222">
+        <plecare>Suceava</plecare>
+        <destinatie>Iasi</destinatie>
+        <oraPlecarii>12:10</oraPlecarii>
+        <oraSosirii>15:00</oraSosirii>
+        <durata>2h 50m</durata>
+        <intarziereSosirePlecare>0</intarziereSosirePlecare>
+        <intarzierePlecare>0</intarzierePlecare>
+        <intarziereSosireDestinatie>0</intarziereSosireDestinatie>
+    </tren>
+</listaTrenurilor>
